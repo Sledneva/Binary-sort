@@ -1,0 +1,12 @@
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\bin\Debug\BinarySort.exe.config
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\bin\Debug\BinarySort.exe
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\bin\Debug\BinarySort.pdb
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\obj\Debug\BinarySort.csprojResolveAssemblyReference.cache
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\obj\Debug\BinarySort.Form1.resources
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\obj\Debug\BinarySort.Properties.Resources.resources
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\obj\Debug\BinarySort.csproj.GenerateResource.Cache
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\obj\Debug\BinarySort.exe
+C:\Users\Рита\documents\visual studio 2013\Projects\Sort\BinarySort\obj\Debug\BinarySort.pdb
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\BinarySort\bin\Debug\BinarySort.exe.config
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\BinarySort\obj\Debug\BinarySort.exe
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\BinarySort\obj\Debug\BinarySort.pdb
